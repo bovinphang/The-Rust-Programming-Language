@@ -1,0 +1,35 @@
+.autogit
+.DS_Store
+/target
+*/target/
+/web/node_modules
+node_modules
+/web/dist
+*/dist.zip
+dist
+#/web/build
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build.log
+
+# Editor directories and files
+# *.rar
+# *.zip
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# repository
+/ivysettings
+/web/src/js/packs
+
